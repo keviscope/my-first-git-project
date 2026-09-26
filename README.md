@@ -1,2 +1,2 @@
 # my-first-git-project
-This is one of my projects using Git and GitHub.  ## Technologies  - HTML - CSS - JavaScript  ## Author  KVS
+This is me teaching my students how to use github and git with one of a projects using  ## Technologies  - HTML - CSS - JavaScript  ## Author  KVS
